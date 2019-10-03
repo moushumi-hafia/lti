@@ -1,5 +1,9 @@
 This is a new file to test
 
+<<<<<<< HEAD
 
 
 This line is added from notepad after inserting line from github
+=======
+This line is inserted directly from github
+>>>>>>> cf80df61090a3a967f969679f9a3691493642be9

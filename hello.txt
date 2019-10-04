@@ -4,7 +4,4 @@ this is version 2 of hello
 
 this is version 3 of hello
 
-
-line entered to commit to new_branch
-
-checking branching...
+Hello Welcome testing etc etc
